@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://zhongyi80.github.io/k8s_notesg/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "kubernetes notes"
 theme = "papermode"
